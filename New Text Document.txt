@@ -1,0 +1,43 @@
+Data Science masters
+Course Duration: 448h 22m 23s
+
+Data Science Masters course is highly curated and uniquely designed according to the latest industry standards. This program instills students the skills essential to knowledge discovery efforts to identify standard, novel, and truly differentiated solutions and decision-making, including skills in managing, querying, analyzing, visualizing, and extracting meaning from extremely large data sets. This trending program provides students with the statistical, mathematical and computational skills needed to meet the large-scale data science challenges of today's professional world. You will learn all the stack required to work in data science industry including cloud infrastructure and real-time industry projects. This course will be taught in Hindi language.
+
+What you'll learn
+Python
+Statistics
+Machine learning
+Deep learning
+Computer vision
+Natural language processing
+Big Data
+Apache Spark
+Apache Kafka
+Data Analytics
+PowerBI
+Tableau
+Databases
+Data Science Workflow
+Real Time Data Science Projects
+Course Features
+Data Science Master’s certification
+Self-Paced Learning
+50 + hands-on industry real-time projects
+200+ hours classes
+Every week doubt clearing session
+2 Year Dashboard access
+Course Materials
+Doubt clearing one-to-one
+Doubt clearing through mail and support
+Discord Community
+Assignments
+Quiz in every module
+Live projects with real-time implementation
+Resume building
+Career guidance
+Interview Preparation
+Mock Interviews
+Regular assessment
+80% Scheduled Classes & 20% Live Classes
+PWLabs Access
+Experience Portal Access
